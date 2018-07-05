@@ -1,13 +1,13 @@
 # Media-Monitoring-and-Analytics
-Project Overview
+Project Overview:
 This program  takes any user input as keywords, that they would like to analyze.  
 
-Research Questions to Answer
+Research Questions to Answer:
 Which news sources write mostly about the topic?
 What is an average sentiment score of their articles? How it changes over period of time?
 How the topic popularity in media changes over period of time?
 
-Data Sources
+Data Sources:
 Data sets are dynamic and come from: News API (newsapi.org)
 
 Project Steps:
